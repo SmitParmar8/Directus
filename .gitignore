@@ -1,0 +1,8 @@
+.env
+
+# Docker volumes / local data
+db_data/
+
+# OS files
+.DS_Store
+node_modules/
